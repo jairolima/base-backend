@@ -1,3 +1,6 @@
+# Future list
+-add adress field
+
 # Setup
 
 clone the repo and then run `npm install`.
