@@ -11,6 +11,15 @@ Run the following command to run startup migrations.
 adonis migration:run
 ```
 
+## Start
+
+Run the following command to run project.
+
+```js
+adonis serve --dev
+```
+*Easier to start server in compare to express because its not necessary to install and configure nodemon
+
 ## Packages
 
 ```js
