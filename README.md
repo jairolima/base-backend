@@ -57,6 +57,7 @@ adonis make:model migrationcontrollername -m -c
 ## General tips
 
 Run the following command to install packages like npm install packagename
+npm i -g better-npm-install
 
 ```js
 ni packagename
