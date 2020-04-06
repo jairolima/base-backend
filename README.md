@@ -43,4 +43,12 @@ Run the following command to create both migration and controller
 
 ```js
 adonis make:model migrationcontrollername -m -c
-``
+```
+
+## General tips
+
+Run the following command to install packages like npm install packagename
+
+```js
+ni packagename
+```
