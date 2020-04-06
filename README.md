@@ -10,3 +10,12 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Adonis useful tips
+
+Run the following command to create both migration and controller
+
+```js
+adonis make:model nome -m -c
+```
+
