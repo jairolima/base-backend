@@ -1,6 +1,3 @@
-# Future list
--add adress field
-
 # Setup
 
 clone the repo and then run `npm install`.
@@ -65,3 +62,6 @@ Run the following command to install packages like npm install packagename
 ```js
 ni packagename
 ```
+
+# TODO
+-add adress field
