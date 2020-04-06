@@ -13,7 +13,7 @@ adonis migration:run
 
 ## Start
 
-Run the following command to run project.
+Run the following command to run the project.
 
 ```js
 adonis serve --dev
