@@ -48,7 +48,7 @@ adonis serve --dev
 
 ## Adonis useful tips
 
-Run the following command to create both migration and controller
+Run the following command to create both migration, controller and model
 
 ```js
 adonis make:model migrationcontrollername -m -c
